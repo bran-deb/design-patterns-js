@@ -1,6 +1,7 @@
 # Design Patterns in JS
 
-> Class Pattern
-> Constructor Pattern
-> Singleton
-> Factory
+> - Class Pattern
+> - Constructor Pattern
+> - Singleton
+> - Factory
+> - Module Pattern
